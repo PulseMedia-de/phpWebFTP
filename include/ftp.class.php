@@ -141,7 +141,10 @@ class ftp {
 	function put($remoteFile,$localFile) {
 		$ok=false;
 		if(file_exists($localFile)) {
-			ftp_put($this->connection, $remoteFile, $localFile, $this->mode);
+			if($this->mode == 0)
+				ftp_put($this->connection, $remoteFile, $localFile, FTP_ASCII);
+			else
+				ftp_put($this->connection, $remoteFile, $localFile, FTP_BINARY);
 			$ok=true;
 		}
 		return $ok;
