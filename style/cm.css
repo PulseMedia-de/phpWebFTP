@@ -1,0 +1,174 @@
+body {
+	font-family:Verdana,Helvetica, sans-serif;
+	font-size:8pt;
+	margin:0px;
+	width: 100%;
+	height: 100%;
+}
+
+A {
+	color:#363636;
+	text-decoration:none;
+	cursor:default;
+}
+
+A:hover {
+	color:#363636;
+	text-decoration:none;
+	cursor:default;
+}
+
+.leftmenulink {
+	color:#215DC6;
+	font-size:8pt;
+}
+
+A.leftmenulink:hover {
+	color:#026AFE;
+	text-decoration:underline;
+}
+
+.header {
+	width:100%;
+	background-color:#026AFE;
+	font-variant:small-caps;
+	font-size:18px;
+	font-style:italic;
+	height:20px;
+	margin-top:0px;
+	margin-bottom:5px;
+}
+
+TD.titlebar {
+	background-image:url(../img/titlebar.gif);
+	background-position: top left;
+	background-repeat: repeat-x;
+	border:solid 1px #0043CF;
+	border-left:0;
+	border-right:0;
+	background-color:#026AFE;
+	color:#FFF;
+}
+
+TD.menu {
+	border:solid 1px #D8D2BD;
+	border-left:0;
+	border-right:0;
+	background-color:#F1EFE5;
+	color:#000;
+}
+
+TD.leftmenu {
+	color:#000;
+/*	height: 100%;*/
+	width: 212px;
+}
+
+TD.tiny {
+	font-size:6pt;
+}
+
+TD.tinyblue {
+	font-size:6pt;
+	background-color:#7597E2;
+}
+
+TD.tinywhite {
+	font-size:6pt;
+	background-color:#FFF;
+}
+
+.lined {
+	border:solid 1px #FFF;
+}
+
+TD.leftmenuitem {
+	border:solid 1px #FFF;
+	background-color:#D6DFF7;
+	color:#215DC6;
+	font-size:8pt;
+	padding:2px;
+}
+
+td.itemheadContainer {
+	background-color:#7597E2;
+	background-image:url(../img/menuhead.gif);
+	width:185px;
+}
+
+div.itemhead {
+	color:#215DC6;
+	font-weight: bold;
+	padding: 2px;
+}
+
+table.item {
+	width:185px;
+	padding:0;
+	text-align:left;
+}
+
+TD.listhead {
+	background-color:#F1EFE5;
+	background-image:url(../img/listheader2.gif);
+	background-position: right;
+	height: 18px;
+	padding: 0px 4px;
+}
+
+.filenamecol {
+	background-color:#F7F7F7;
+	padding: 0px 4px;
+}
+
+.listcol {
+	padding: 0px 4px;
+	white-space: nowrap;
+}
+
+.login {
+	background-image:url(../img/login.gif);
+	height:291px;
+	width:328px;
+}
+
+TD,DIV {
+	font-family:Verdana,Helvetica;
+	font-size:8pt;
+}
+
+.filename {
+	margin: 2px;
+}
+
+#filelist {
+	width: 100%;
+	/*
+	overflow:scroll;
+	*/
+}
+
+div.toolbarButton {
+	border: 1px solid #F1EFE5; /* same as td.menu's background-color. IE6 doesn't support 'transparent' property */
+	cursor: default;
+}
+
+/* Not supported by IE 6 and 7 */
+div.toolbarButton:hover {
+	border-right: 1px solid #444444;
+	border-bottom: 1px solid #444444;
+	border-top: 1px solid #bbbbbb;
+	border-left: 1px solid #bbbbbb;
+}
+
+/* Not supported by IE 6 and 7 */
+div.toolbarButton:active {
+	border-right: 1px solid #bbbbbb;
+	border-bottom: 1px solid #bbbbbb;
+	border-top: 1px solid #444444;
+	border-left: 1px solid #444444;
+}
+
+div.toolbarButton table td {
+	white-space: nowrap;
+}
