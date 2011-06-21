@@ -32,7 +32,7 @@
 	# Disable resumeDownload (default value);
 	#    $resumeDownload = false;
 	
-	$resumeDownload = false;
+	$resumeDownload = true;
 
 	# defaultLanguage
 	#----------
@@ -40,11 +40,11 @@
 	# Please check the includes/language directory for available languages
 	#
 	# Example :
-	#    $defaultLanguage = "english";
+	#    $defaultLanguage = "en";
 	# Disable default language (default value);
 	#    $defaultLanguage = "";
 	
-	$defaultLanguage = "nl";
+	$defaultLanguage = "en";
 
 	# defaultServer
 	#----------
