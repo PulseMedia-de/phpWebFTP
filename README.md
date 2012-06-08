@@ -1,10 +1,10 @@
 # phpWebFTP
 
 This is a fork of the original [phpWebFTP on SourceForge](http://sourceforge.net/projects/phpwebftp/)
-The project has been found abandoned for some while and not compatible to PHP5.
+The project has been found abandoned for some while and not full compatible to PHP5.
 
-The goal is to provide a refurbished and working version of phpWebFTP to meet
-today's needs and possibilities.
+The goal is to provide a refurbished of phpWebFTP to meet today's needs and
+possibilities, starting with phpWebFTP Version 4 beta.
 
 ## License
 
