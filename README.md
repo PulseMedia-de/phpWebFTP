@@ -1,17 +1,15 @@
-phpWebFTP
-===========
+# phpWebFTP
 
-This is a fork of the original [phpWebFTP on SourceForge].(http://sourceforge.net/projects/phpwebftp/).
+This is a fork of the original [phpWebFTP on SourceForge](http://sourceforge.net/projects/phpwebftp/)
 The project has been found abandoned for some while and not compatible to PHP5.
 
 The goal is to provide a refurbished and working version of phpWebFTP to meet
 today's needs and possibilities.
 
-License
-=======
+## License
 
 The original phpWebFTP is licensed under GPLv2. All changes made by this fork
-are under BSD-License. 
+are under three clause BSD-License. 
 
 This program is free software: You can redistribute it and/or modify it under
 the terms of the BSD-License and/or GPLv2 or later.
