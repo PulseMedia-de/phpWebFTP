@@ -70,4 +70,6 @@
 	$lblVersion ="Versió";
 	$lblWithUser = "amb usuari";
 	$lblPasive = "Pasiu";
+	$lblBack = "Back";
+	$lblSave = "Save";
 ?>

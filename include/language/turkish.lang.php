@@ -75,4 +75,6 @@
 	$lblUnZipFile = "Dosyayı Aç";
 	$lblZipFile = "Sıkıştırılmış Dosya";
 	$lblPasive = "Pasif";
+	$lblBack = "Back";
+	$lblSave = "Save";
 ?>

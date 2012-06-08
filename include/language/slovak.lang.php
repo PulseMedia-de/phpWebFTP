@@ -77,4 +77,6 @@
 	$lblUnZipFile = "Dekomprimova súbor";
 	$lblZipFile = "Komprimova soubor";
 	$lblPasive = "Pasívny";
+	$lblBack = "Back";
+	$lblSave = "Save";
 ?>

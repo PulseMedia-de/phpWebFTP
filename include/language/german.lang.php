@@ -74,4 +74,6 @@
 	$lblUnZipFile = "Unzip File";
 	$lblZipFile = "Zip File";
 	$lblPasive = "Passive";
+	$lblBack = "Back";
+	$lblSave = "Save";
 	?>
