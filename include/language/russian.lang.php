@@ -74,4 +74,6 @@ $lblWithUser = "ё яюыќчютрђхыхь";
 $lblUnZipFile = "арёяръютрээћщ єрщы";
 $lblZipFile = "Чряръютрээћщ єрщы";
 $lblPasive = "Ярёёштэћщ";
+$lblBack = "Back";
+$lblSave = "Save";
 ?>

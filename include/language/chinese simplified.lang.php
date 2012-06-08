@@ -76,5 +76,7 @@
 	$lblUnZipFile = "解压文件";
 	$lblZipFile = "压缩文件";
 	$lblPasive = "被动模式";
+	$lblBack = "Back";
+	$lblSave = "Save";
 ?>
 

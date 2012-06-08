@@ -74,4 +74,6 @@ $lblWithUser = "з користувачем";
 $lblUnZipFile = "Розпакований файл";
 $lblZipFile = "Запакований файл";
 $lblPasive = "Пасивний";
+$lblBack = "Back";
+$lblSave = "Save";
 ?>

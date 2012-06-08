@@ -74,4 +74,6 @@
 	$lblUnZipFile = "Atarhivet failu";
 	$lblZipFile = "Saarhivet failu";
 	$lblPasive = "Pasivs";
+	$lblBack = "Back";
+	$lblSave = "Save";
 ?>

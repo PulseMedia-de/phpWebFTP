@@ -429,7 +429,7 @@ XML;
 																	<img src="img/back.gif" border="0" alt=""/>
 																</td>
 																<td>
-																	&nbsp;Terug<?//$lblChangeMode;?>
+																	&nbsp;<?=$lblBack?>
 																</td>
 															</tr>
 														</table>
@@ -443,7 +443,7 @@ XML;
 																	<img src="img/save.gif" border="0" alt=""/>
 																</td>
 																<td>
-																	Opslaan en afsluiten
+																	<?=$lblSave?>
 																</td>
 															</tr>
 														</table>
