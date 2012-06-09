@@ -370,7 +370,7 @@ XML;
 
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 	<head>
-		<title>phpWebFTP <?=$currentVersion;?> By Edwin van Wijk</title>
+		<title>phpWebFTP <?=$currentVersion;?></title>
 		<link rel="stylesheet" href="style/cm.css" title=contemporary type="text/css"/>
 		<script type="text/javascript" src="include/script.js"></script>
 <?
@@ -600,7 +600,7 @@ XML;
 
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 	<head>
-		<title>phpWebFTP <?=$currentVersion;?> By Edwin van Wijk</title>
+		<title>phpWebFTP <?=$currentVersion;?></title>
 		<link rel="stylesheet" href="style/cm.css" title="Contemporary" type="text/css"/>
 		<style type="text/css">
 			body {
@@ -1085,7 +1085,7 @@ XML;
 
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 	<head>
-		<title>phpWebFTP <?=$currentVersion;?> By Edwin van Wijk</title>
+		<title>phpWebFTP <?=$currentVersion;?></title>
 		<link rel="stylesheet" href="style/cm.css" title="contemporary" type="text/css"/>
 		<script type="text/javascript" src="include/script.js"></script>
 	</head>
@@ -1218,25 +1218,6 @@ XML;
 ?>
 				<tr>
 					<td colspan="2"><img src="img/1px.gif" height="5" alt=""/></td>
-				</tr>
-			</table>
-			<table width="328">
-				<tr>
-					<td colspan="2" valign="top" class="leftmenuitem">
-						<div style='font-size:7pt;'>
-						<?=$lblDisclaimer;?>
-						<br/><br/>
-						phpWebFTP <?=$lblVersion;?> <?=$currentVersion;?><br/>
-						&copy; 2002-2004, Edwin van Wijk,<br/>
-						<a href="http://www.v-wijk.net" style='font-size:7pt;'>www.v-wijk.net</a>
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td align=left>&nbsp;</td>
-					<td align=right>
-						&nbsp;
-					</td>
 				</tr>
 			</table>
 		</form>
