@@ -371,10 +371,7 @@ XML;
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 	<head>
 		<title>phpWebFTP <?=$currentVersion;?></title>
-<<<<<<< HEAD
-=======
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
->>>>>>> master
 		<link rel="stylesheet" href="style/cm.css" title=contemporary type="text/css"/>
 		<script type="text/javascript" src="include/script.js"></script>
 <?
@@ -605,10 +602,7 @@ XML;
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 	<head>
 		<title>phpWebFTP <?=$currentVersion;?></title>
-<<<<<<< HEAD
-=======
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
->>>>>>> master
 		<link rel="stylesheet" href="style/cm.css" title="Contemporary" type="text/css"/>
 		<style type="text/css">
 			body {
@@ -1094,10 +1088,7 @@ XML;
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 	<head>
 		<title>phpWebFTP <?=$currentVersion;?></title>
-<<<<<<< HEAD
-=======
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
->>>>>>> master
 		<link rel="stylesheet" href="style/cm.css" title="contemporary" type="text/css"/>
 		<script type="text/javascript" src="include/script.js"></script>
 	</head>
